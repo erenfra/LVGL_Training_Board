@@ -1,0 +1,5 @@
+*.xml
+*.dsn
+fp_info_cache
+*Gerber/*
+*backups/*
