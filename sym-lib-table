@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Tinker_Prototype_Library")(type "KiCad")(uri "${KIPRJMOD}/Tinker_Prototype_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-S3-WROOM-1-N16R8")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbol/ESP32-S3-WROOM-1-N16R8.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbol/USB4105-GF-A.kicad_sym")(options "")(descr ""))
+  (lib (name "LM1117MPX-3.3")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbol/LM1117MPX-3.3.kicad_sym")(options "")(descr ""))
+  (lib (name "USBLC6-2SC6")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbol/USBLC6-2SC6.kicad_sym")(options "")(descr ""))
+  (lib (name "LM75ADP_118")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbol/LM75ADP_118.kicad_sym")(options "")(descr ""))
+  (lib (name "TL3305AF260QG")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbol/TL3305AF260QG.kicad_sym")(options "")(descr ""))
+  (lib (name "IRLML2502TRPBF")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbol/IRLML2502TRPBF.kicad_sym")(options "")(descr ""))
+  (lib (name "TS53YJ103MR10")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbol/TS53YJ103MR10.kicad_sym")(options "")(descr ""))
+)
